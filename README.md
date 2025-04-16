@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Radhika Thakur</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<div style="text-align: center;">
+  <img src="https://drmcet.ac.in/wp-content/uploads/2022/06/com-engineering.jpg" alt="Faltu hai">
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radhika74&label=Profile%20views&color=0e75b6&style=flat" alt="radhika74" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=radhika74" alt="radhika74" /></a> </p>
@@ -19,7 +23,7 @@
 
 - 📫 How to reach me **radhikathakur1103@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Yzlw2iqOQHULmLRwLbWLOT7d6zv3ShGf/preview](https://drive.google.com/file/d/1Yzlw2iqOQHULmLRwLbWLOT7d6zv3ShGf/preview)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Yzlw2iqOQHULmLRwLbWLOT7d6zv3ShGf/preview)
 
 - ⚡ Fun fact **I think I am moody**
 

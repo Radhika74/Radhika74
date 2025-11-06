@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Radhika Thakur</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Salesforce and Fullstack developer from India</h3>
 
 <div style="text-align: center;">
   <img src="https://drmcet.ac.in/wp-content/uploads/2022/06/com-engineering.jpg" alt="Faltu hai">
